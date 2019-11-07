@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="12092a4d-675b-4ac5-b6e3-299414bbc746" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../blog-api/src/main/resources/static/js/5.0a9024b30ec7b7a0ac98.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-api/src/main/resources/static/js/5.0a9024b30ec7b7a0ac98.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-api/src/main/resources/static/js/7.4b86a1feebaaf1bf00af.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-api/src/main/resources/static/js/7.4b86a1feebaaf1bf00af.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/js/5.0a9024b30ec7b7a0ac98.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/js/5.0a9024b30ec7b7a0ac98.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/js/7.4b86a1feebaaf1bf00af.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/js/7.4b86a1feebaaf1bf00af.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-api/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-api/src/main/resources/static/css/app.80e6074419c7b08fb4e555d545c6e599.css" beforeDir="false" afterPath="$PROJECT_DIR$/../blog-api/src/main/resources/static/css/app.2ce37092cc10ecfb95740a4cc9a2f52e.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-api/src/main/resources/static/css/app.80e6074419c7b08fb4e555d545c6e599.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/../blog-api/src/main/resources/static/css/app.2ce37092cc10ecfb95740a4cc9a2f52e.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-api/src/main/resources/static/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../blog-api/src/main/resources/static/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-api/src/main/resources/static/js/5.cd2f94af862a301a02e6.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-api/src/main/resources/static/js/5.cd2f94af862a301a02e6.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-api/src/main/resources/static/js/7.3f7a13321de45a17c767.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-api/src/main/resources/static/js/7.3f7a13321de45a17c767.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-api/src/main/resources/static/js/app.969e928bd328b0b2b6b4.js" beforeDir="false" afterPath="$PROJECT_DIR$/../blog-api/src/main/resources/static/js/app.e277748091d25e32123b.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-api/src/main/resources/static/js/app.969e928bd328b0b2b6b4.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/../blog-api/src/main/resources/static/js/app.e277748091d25e32123b.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-api/src/main/resources/static/js/manifest.cbf999c946dc7162fe6f.js" beforeDir="false" afterPath="$PROJECT_DIR$/../blog-api/src/main/resources/static/js/manifest.9f48cedd6d81e0bf7c93.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-api/src/main/resources/static/js/manifest.cbf999c946dc7162fe6f.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/../blog-api/src/main/resources/static/js/manifest.9f48cedd6d81e0bf7c93.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/css/app.80e6074419c7b08fb4e555d545c6e599.css" beforeDir="false" afterPath="$PROJECT_DIR$/dist/css/app.2ce37092cc10ecfb95740a4cc9a2f52e.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/css/app.80e6074419c7b08fb4e555d545c6e599.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/dist/css/app.2ce37092cc10ecfb95740a4cc9a2f52e.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/js/5.cd2f94af862a301a02e6.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/js/5.cd2f94af862a301a02e6.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/js/7.3f7a13321de45a17c767.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/js/7.3f7a13321de45a17c767.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/js/app.969e928bd328b0b2b6b4.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/js/app.e277748091d25e32123b.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/js/app.969e928bd328b0b2b6b4.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/dist/js/app.e277748091d25e32123b.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/js/manifest.cbf999c946dc7162fe6f.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/js/manifest.9f48cedd6d81e0bf7c93.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/js/manifest.cbf999c946dc7162fe6f.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/dist/js/manifest.9f48cedd6d81e0bf7c93.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/Login.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/Login.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/Register.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/Register.vue" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1SVib1IzFjDXerGUsdUIscSybjc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="E:\WebStorm 2019.2.3\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="12092a4d-675b-4ac5-b6e3-299414bbc746" name="Default Changelist" comment="" />
+      <created>1571655231076</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571655231076</updated>
+      <workItem from="1571655233609" duration="13452000" />
+      <workItem from="1571825564360" duration="41436000" />
+      <workItem from="1572690286833" duration="3284000" />
+      <workItem from="1572878775577" duration="16315000" />
+      <workItem from="1573114278056" duration="985000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
